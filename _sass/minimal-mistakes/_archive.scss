@@ -116,7 +116,7 @@
 
   a {
     color: #fff;
-    background : #333;
+    background-color : #333;
     text-decoration: none;
   }
 }
@@ -207,6 +207,7 @@
 
     &::before {
       display: none;
+      background-color : #333;
     }
   }
 
