@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Today I Learned"
 title_separator          : "-"
-subtitle                 : "#Carpediem 
+subtitle                 : "#Carpediem"
 name                     : "Vanessa Cheong"
 description              : "Today I Learned"
 url                      : "https://i2sign.github.io"
